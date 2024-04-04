@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function Stats() {
   return (
-    <div>Stats</div>
+    <div>Stats</div> // Сделать график изменения веса при помощи графана
   )
 }

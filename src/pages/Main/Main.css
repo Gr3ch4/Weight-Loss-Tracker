@@ -17,11 +17,7 @@ input, button {
     margin-bottom: 10px; /* добавляем небольшой отступ между элементами */
 }
 
-img {
-    width: 350px;
-    margin: 10px;
-    border: 1px solid black;
-}
+
 
 .file-reader {
     width: 100%; /* инпуты и кнопки займут всю доступную ширину */
